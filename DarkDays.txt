@@ -2,3 +2,4 @@ aaa
 bbb
 ccc
 First line added by Hanna.
+Second line.
